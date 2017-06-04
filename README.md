@@ -1,5 +1,19 @@
-# PeelPal
+# PeelPal -- Goal Tracking Application 
 
+Basic Functionality:
+Users can add goals (habitual or quantitative), add contributions to each goal, view their achievements (completed goals), share their achievements or individual goals to social media, opt to receive email or text message reminders, and edit their notifications method as well as account information.
+
+Web Hosting & Mobile-Friendly Optimization:
+PeelPal will be hosted online and can be accessed through the CIS department server, ix. The application can be used on desktop or laptop computers, but is also optimized for mobile-friendly users.
+
+Technologies:
+This project utilizes PHP, html, MySQL, Twilio & JavaScript in addition to Github for revision control and Slack for team communication. 
+
+Technique:
+By frequently consulting the customer, reviewing requirements, and implementing thorough review after each iteration, the PeelPal team was able to create a cohesive, modular web-application using an iterative approach. 
+
+
+Files
 accountsInfo.php:		Account information page  		                                
 accountEditHelper.php: 	File includes account editing funtion  
 achievements.php:    	Achievements page  
